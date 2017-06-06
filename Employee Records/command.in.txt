@@ -1,0 +1,14 @@
++ 123,MacDonald,Ron,80000
++ 100,Brown,Bob,150000
+% 111,Smith,Alice,95000
+? 111
++ 222,Kurtz,Karl,175000
+- 333
++ 150,Robins,Roberta,200000
++ 123,Bristol,Buddy,50000
+? 123
+? 175
+? 100
+- 100
+? 100
++ 175,Anderson,Amy,125000
